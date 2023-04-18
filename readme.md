@@ -6,4 +6,4 @@ technology wich used to create this project
 * js
 * git
 
-[My CV] (https://bcygal.github.io/cv/)
+[My CV](https://bcygal.github.io/cv/)
