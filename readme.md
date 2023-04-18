@@ -5,4 +5,5 @@ technology wich used to create this project
 * sass
 * js
 * git
+
 [My CV] (https://bcygal.github.io/cv/)
